@@ -25,5 +25,6 @@
 
 <h2>Development Environment</h2>
 <p>For testing and development clone this repository.</p>
+<p>I have purposely left the database uri in this repo for now, to allow for easy local usage.</p> 
 <p>Run npm install in root and root/client</p>
 <p>Run npm start in root and root/client to start running a local instances.</p>
