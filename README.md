@@ -1,5 +1,6 @@
 <h1>Shopify Challenge 2021</h1>
 <p>Hi there, this repository is my submission for the Shopify 2021 challenge.</p>
+<small>Please note the application is hosted for free with Heroku, there may be some latency on the initial site load.</small>
 <p>Find the app here: <a href="http://myimagegallery.herokuapp.com/">Quik Gallery</a></p>
 <br/>
 <h2>My Idea</h2>
@@ -20,6 +21,7 @@
 <h2>Technologies</h2>
 <p>My application is built with React.js, Node.js, Express.js and MongoDB.</p>
 <p>Images are supplied via the Pixabay API.</p>
+<p>The application is hosted with Heroku.</p>
 
 <h2>Development Environment</h2>
 <p>For testing and development clone this repository.</p>
