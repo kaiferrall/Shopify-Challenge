@@ -1,0 +1,17 @@
+.save-container {
+  border-bottom: 0.5px solid black;
+  padding: 4px;
+  text-align: center;
+}
+.save-container input {
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+.save-container input:focus {
+  outline: none;
+}
+.save-container button {
+  color: green;
+  font-weight: bold;
+}
