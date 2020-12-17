@@ -20,3 +20,8 @@
 <h2>Technologies</h2>
 <p>My application is built with React.js, Node.js, Express.js and MongoDB.</p>
 <p>Images are supplied via the Pixabay API.</p>
+
+<h2>Development Environment</h2>
+<p>For testing and development clone this repository.</p>
+<p>Run npm install in root and root/client</p>
+<p>Run npm start in root and root/client to start running a local instances.</p>
