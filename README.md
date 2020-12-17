@@ -1,7 +1,7 @@
 <h1>Shopify Challenge 2021</h1>
 <p>Hi there, this repository is my submission for the Shopify 2021 challenge.</p>
 <small>Please note the application is hosted for free with Heroku, there may be some latency on the initial site load.</small>
-<p><b>Find the app here:</b> <a href="http://myimagegallery.herokuapp.com/">Quik Gallery</a></p>
+<p><b>Find the app here:</b> <a target="_blank" href="http://myimagegallery.herokuapp.com/">Quik Gallery</a></p>
 <br/>
 <h2>My Idea</h2>
 <p>
